@@ -1,1 +1,2 @@
-# Prediction-of-N2O-N2O-N2-
+The main objective of this code is to predict N2O/(N2O+N2) values based on O18 and SP values. It contains four files, test code. R, Training.RData, test_ file.txt and Result.txt documents. File of test code. r is the execution code file, which contains the code to be run. File of Training.RData is a trained random forest model. File of test_ file.txt is a sample input file, containing O18 and SP column values. File of Result.txt is the predicted N2O/(N2O+N2) result file, including three columns, N2O/(N2O+N2) predicted value, and input O18 and SP value.
+Users can open R language software to run according to the code in test-code.r file, and import test_ file.txt and Training.RData to get the Result.txt documents.
